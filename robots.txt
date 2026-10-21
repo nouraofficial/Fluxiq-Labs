@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nouraofficial.github.io/Fluxiq-Labs/sitemap.xml
