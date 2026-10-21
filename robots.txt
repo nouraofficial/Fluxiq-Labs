@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nouraofficial.github.io/Fluxiq-Labs/sitemap.xml
+Sitemap: https://fluxiqlabs.vercel.app/sitemap.xml
